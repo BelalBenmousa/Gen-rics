@@ -2,7 +2,7 @@
 //
 //        Exemple: un objecte de la classe Persona, un String i un tipus primitiu.
 //
-//        D’aquesta manera has comprovat que se li pot passar qualsevol tipus de paràmetre i en qualsevol ordre.
+//        D’aquesta manera has comprovat que se li pot passar qualsevol tipus de paràmetre i en qualsevol ordre.a
 
 package n1.ex2;
 
